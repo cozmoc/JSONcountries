@@ -1,0 +1,2552 @@
+[
+  {
+    "name_en": "Saudi Arabia",
+    "name_ar": "المملكة العربية السعودية",
+    "short_name": "SA",
+    "currency_code_en": "SAR",
+    "iso_code": "SAU",
+    "currency_code_ar": "ريال سعودي",
+    "phone_code": 966,
+    "id": 1
+  },
+  {
+    "name_en": "Åland Islands",
+    "name_ar": "جزر آلاند",
+    "short_name": "AX",
+    "currency_code_en": "EUR",
+    "iso_code": "ALA",
+    "currency_code_ar": "يورو",
+    "phone_code": 0,
+    "id": 2
+  },
+  {
+    "name_en": "Albania",
+    "name_ar": "ألبانيا",
+    "short_name": "AL",
+    "currency_code_en": "ALL",
+    "iso_code": "ALB",
+    "currency_code_ar": "ليك ألباني",
+    "phone_code": 355,
+    "id": 3
+  },
+  {
+    "name_en": "Algeria",
+    "name_ar": "الجزائر",
+    "short_name": "DZ",
+    "currency_code_en": "DZD",
+    "iso_code": "DZA",
+    "currency_code_ar": "دينار جزائري",
+    "phone_code": 213,
+    "id": 4
+  },
+  {
+    "name_en": "American Samoa",
+    "name_ar": "ساموا الأمريكية",
+    "short_name": "AS",
+    "currency_code_en": "USD",
+    "iso_code": "ASM",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 684,
+    "id": 5
+  },
+  {
+    "name_en": "Andorra",
+    "name_ar": "أندورا",
+    "short_name": "AD",
+    "currency_code_en": "EUR",
+    "iso_code": "AND",
+    "currency_code_ar": "يورو",
+    "phone_code": 376,
+    "id": 6
+  },
+  {
+    "name_en": "Angola",
+    "name_ar": "أنغولا",
+    "short_name": "AO",
+    "currency_code_en": "AOA",
+    "iso_code": "AGO",
+    "currency_code_ar": "كوانزا أنجولي",
+    "phone_code": 244,
+    "id": 7
+  },
+  {
+    "name_en": "Anguilla",
+    "name_ar": "أنغويلا",
+    "short_name": "AI",
+    "currency_code_en": "XCD",
+    "iso_code": "AIA",
+    "currency_code_ar": "دولار شرق الكاريبي",
+    "phone_code": 264,
+    "id": 8
+  },
+  {
+    "name_en": "Antarctica",
+    "name_ar": "أنتاركتيكا",
+    "short_name": "AQ",
+    "currency_code_en": "",
+    "iso_code": "ATA",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 9
+  },
+  {
+    "name_en": "Antigua & Barbuda",
+    "name_ar": "أنتيغوا وبربودا",
+    "short_name": "AG",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 1268,
+    "id": 10
+  },
+  {
+    "name_en": "Argentina",
+    "name_ar": "الأرجنتين",
+    "short_name": "AR",
+    "currency_code_en": "ARS",
+    "iso_code": "ARG",
+    "currency_code_ar": "بيزو أرجنتيني",
+    "phone_code": 54,
+    "id": 11
+  },
+  {
+    "name_en": "Armenia",
+    "name_ar": "أرمينيا",
+    "short_name": "AM",
+    "currency_code_en": "AMD",
+    "iso_code": "ARM",
+    "currency_code_ar": "درام أرميني",
+    "phone_code": 374,
+    "id": 12
+  },
+  {
+    "name_en": "Aruba",
+    "name_ar": "أروبا",
+    "short_name": "AW",
+    "currency_code_en": "AWG",
+    "iso_code": "ABW",
+    "currency_code_ar": "فلورن أروبي",
+    "phone_code": 297,
+    "id": 13
+  },
+  {
+    "name_en": "Ascension Island",
+    "name_ar": "جزيرة أسينشيون",
+    "short_name": "AC",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 14
+  },
+  {
+    "name_en": "Australia",
+    "name_ar": "أستراليا",
+    "short_name": "AU",
+    "currency_code_en": "AUD",
+    "iso_code": "AUS",
+    "currency_code_ar": "دولار أسترالي",
+    "phone_code": 61,
+    "id": 15
+  },
+  {
+    "name_en": "Austria",
+    "name_ar": "النمسا",
+    "short_name": "AT",
+    "currency_code_en": "EUR",
+    "iso_code": "AUT",
+    "currency_code_ar": "يورو",
+    "phone_code": 43,
+    "id": 16
+  },
+  {
+    "name_en": "Azerbaijan",
+    "name_ar": "أذربيجان",
+    "short_name": "AZ",
+    "currency_code_en": "AZN",
+    "iso_code": "AZE",
+    "currency_code_ar": "مانات أذربيجان",
+    "phone_code": 994,
+    "id": 17
+  },
+  {
+    "name_en": "Bahamas",
+    "name_ar": "جزر البهاما",
+    "short_name": "BS",
+    "currency_code_en": "BSD",
+    "iso_code": "BHS",
+    "currency_code_ar": "دولار باهامي",
+    "phone_code": 242,
+    "id": 18
+  },
+  {
+    "name_en": "Bahrain",
+    "name_ar": "البحرين",
+    "short_name": "BH",
+    "currency_code_en": "BHD",
+    "iso_code": "BHR",
+    "currency_code_ar": "دينار بحريني",
+    "phone_code": 973,
+    "id": 19
+  },
+  {
+    "name_en": "Bangladesh",
+    "name_ar": "بنغلاديش",
+    "short_name": "BD",
+    "currency_code_en": "BDT",
+    "iso_code": "BGD",
+    "currency_code_ar": "تاكا بنجلاديشي",
+    "phone_code": 880,
+    "id": 20
+  },
+  {
+    "name_en": "Barbados",
+    "name_ar": "بربادوس",
+    "short_name": "BB",
+    "currency_code_en": "BBD",
+    "iso_code": "BRB",
+    "currency_code_ar": "دولار بربادوسي",
+    "phone_code": 246,
+    "id": 21
+  },
+  {
+    "name_en": "Belarus",
+    "name_ar": "بيلاروس",
+    "short_name": "BY",
+    "currency_code_en": "BYN",
+    "iso_code": "BLR",
+    "currency_code_ar": "روبل بيلاروسي",
+    "phone_code": 375,
+    "id": 22
+  },
+  {
+    "name_en": "Belgium",
+    "name_ar": "بلجيكا",
+    "short_name": "BE",
+    "currency_code_en": "EUR",
+    "iso_code": "BEL",
+    "currency_code_ar": "يورو",
+    "phone_code": 32,
+    "id": 23
+  },
+  {
+    "name_en": "Belize",
+    "name_ar": "بليز",
+    "short_name": "BZ",
+    "currency_code_en": "BZD",
+    "iso_code": "BLZ",
+    "currency_code_ar": "دولار بليزي",
+    "phone_code": 501,
+    "id": 24
+  },
+  {
+    "name_en": "Benin",
+    "name_ar": "بنين",
+    "short_name": "BJ",
+    "currency_code_en": "XOF",
+    "iso_code": "BEN",
+    "currency_code_ar": "فرنك غرب أفريقي",
+    "phone_code": 229,
+    "id": 25
+  },
+  {
+    "name_en": "Bermuda",
+    "name_ar": "برمودا",
+    "short_name": "BM",
+    "currency_code_en": "BMD",
+    "iso_code": "BMU",
+    "currency_code_ar": "دولار برمودي",
+    "phone_code": 441,
+    "id": 26
+  },
+  {
+    "name_en": "Bhutan",
+    "name_ar": "بوتان",
+    "short_name": "BT",
+    "currency_code_en": "INR",
+    "iso_code": "BTN",
+    "currency_code_ar": "روبية هندي",
+    "phone_code": 975,
+    "id": 27
+  },
+  {
+    "name_en": "Bolivia",
+    "name_ar": "بوليفيا",
+    "short_name": "BO",
+    "currency_code_en": "BOP",
+    "iso_code": "",
+    "currency_code_ar": "بيزو بوليفي",
+    "phone_code": 591,
+    "id": 28
+  },
+  {
+    "name_en": "Bosnia & Herzegovina",
+    "name_ar": "البوسنة والهرسك",
+    "short_name": "BA",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 387,
+    "id": 29
+  },
+  {
+    "name_en": "Botswana",
+    "name_ar": "بتسوانا",
+    "short_name": "BW",
+    "currency_code_en": "BWP",
+    "iso_code": "BWA",
+    "currency_code_ar": "بولا بتسواني",
+    "phone_code": 267,
+    "id": 30
+  },
+  {
+    "name_en": "Brazil",
+    "name_ar": "البرازيل",
+    "short_name": "BR",
+    "currency_code_en": "BRL",
+    "iso_code": "BRA",
+    "currency_code_ar": "ريال برازيلي",
+    "phone_code": 55,
+    "id": 31
+  },
+  {
+    "name_en": "British Indian Ocean Territory",
+    "name_ar": "الإقليم البريطاني في المحيط الهندي",
+    "short_name": "IO",
+    "currency_code_en": "USD",
+    "iso_code": "IOT",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 246,
+    "id": 32
+  },
+  {
+    "name_en": "British Virgin Islands",
+    "name_ar": "جزر فيرجن البريطانية",
+    "short_name": "VG",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 284,
+    "id": 33
+  },
+  {
+    "name_en": "Brunei",
+    "name_ar": "بروناي",
+    "short_name": "BN",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 673,
+    "id": 34
+  },
+  {
+    "name_en": "Bulgaria",
+    "name_ar": "بلغاريا",
+    "short_name": "BG",
+    "currency_code_en": "BGN",
+    "iso_code": "BGR",
+    "currency_code_ar": "ليف بلغاري",
+    "phone_code": 359,
+    "id": 35
+  },
+  {
+    "name_en": "Burkina Faso",
+    "name_ar": "بوركينا فاسو",
+    "short_name": "BF",
+    "currency_code_en": "XOF",
+    "iso_code": "BFA",
+    "currency_code_ar": "فرنك غرب أفريقي",
+    "phone_code": 226,
+    "id": 36
+  },
+  {
+    "name_en": "Burundi",
+    "name_ar": "بوروندي",
+    "short_name": "BI",
+    "currency_code_en": "BIF",
+    "iso_code": "BDI",
+    "currency_code_ar": "فرنك بروندي",
+    "phone_code": 257,
+    "id": 37
+  },
+  {
+    "name_en": "Cambodia",
+    "name_ar": "كمبوديا",
+    "short_name": "KH",
+    "currency_code_en": "KHR",
+    "iso_code": "KHM",
+    "currency_code_ar": "رييال كمبودي",
+    "phone_code": 855,
+    "id": 38
+  },
+  {
+    "name_en": "Cameroon",
+    "name_ar": "الكاميرون",
+    "short_name": "CM",
+    "currency_code_en": "XAF",
+    "iso_code": "CMR",
+    "currency_code_ar": "فرنك وسط أفريقي",
+    "phone_code": 237,
+    "id": 39
+  },
+  {
+    "name_en": "Canada",
+    "name_ar": "كندا",
+    "short_name": "CA",
+    "currency_code_en": "CAD",
+    "iso_code": "CAN",
+    "currency_code_ar": "دولار كندي",
+    "phone_code": 1,
+    "id": 40
+  },
+  {
+    "name_en": "Canary Islands",
+    "name_ar": "جزر الكناري",
+    "short_name": "IC",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 41
+  },
+  {
+    "name_en": "Cape Verde",
+    "name_ar": "الرأس الأخضر",
+    "short_name": "CV",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 238,
+    "id": 42
+  },
+  {
+    "name_en": "Caribbean Netherlands",
+    "name_ar": "هولندا الكاريبية",
+    "short_name": "BQ",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 43
+  },
+  {
+    "name_en": "Cayman Islands",
+    "name_ar": "جزر كايمان",
+    "short_name": "KY",
+    "currency_code_en": "KYD",
+    "iso_code": "CYM",
+    "currency_code_ar": "دولار جزر كيمن",
+    "phone_code": 345,
+    "id": 44
+  },
+  {
+    "name_en": "Central African Republic",
+    "name_ar": "جمهورية أفريقيا الوسطى",
+    "short_name": "CF",
+    "currency_code_en": "XAF",
+    "iso_code": "CAF",
+    "currency_code_ar": "فرنك وسط أفريقي",
+    "phone_code": 236,
+    "id": 45
+  },
+  {
+    "name_en": "Ceuta & Melilla",
+    "name_ar": "سبتة ومليلية",
+    "short_name": "EA",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 46
+  },
+  {
+    "name_en": "Chad",
+    "name_ar": "تشاد",
+    "short_name": "TD",
+    "currency_code_en": "XAF",
+    "iso_code": "TCD",
+    "currency_code_ar": "فرنك وسط أفريقي",
+    "phone_code": 235,
+    "id": 47
+  },
+  {
+    "name_en": "Chile",
+    "name_ar": "تشيلي",
+    "short_name": "CL",
+    "currency_code_en": "CLP",
+    "iso_code": "CHL",
+    "currency_code_ar": "بيزو شيلي",
+    "phone_code": 56,
+    "id": 48
+  },
+  {
+    "name_en": "China",
+    "name_ar": "الصين",
+    "short_name": "CN",
+    "currency_code_en": "CNY",
+    "iso_code": "CHN",
+    "currency_code_ar": "يوان صيني",
+    "phone_code": 86,
+    "id": 49
+  },
+  {
+    "name_en": "Christmas Island",
+    "name_ar": "جزيرة الكريسماس",
+    "short_name": "CX",
+    "currency_code_en": "AUD",
+    "iso_code": "CXR",
+    "currency_code_ar": "دولار أسترالي",
+    "phone_code": 61,
+    "id": 50
+  },
+  {
+    "name_en": "Cocos (Keeling) Islands",
+    "name_ar": "جزر كوكوس (كيلينغ)",
+    "short_name": "CC",
+    "currency_code_en": "AUD",
+    "iso_code": "CCK",
+    "currency_code_ar": "دولار أسترالي",
+    "phone_code": 61,
+    "id": 51
+  },
+  {
+    "name_en": "Colombia",
+    "name_ar": "كولومبيا",
+    "short_name": "CO",
+    "currency_code_en": "COP",
+    "iso_code": "COL",
+    "currency_code_ar": "بيزو كولومبي",
+    "phone_code": 57,
+    "id": 52
+  },
+  {
+    "name_en": "Comoros",
+    "name_ar": "جزر القمر",
+    "short_name": "KM",
+    "currency_code_en": "KMF",
+    "iso_code": "COM",
+    "currency_code_ar": "فرنك جزر القمر",
+    "phone_code": 269,
+    "id": 53
+  },
+  {
+    "name_en": "Congo - Brazzaville",
+    "name_ar": "الكونغو - برازافيل",
+    "short_name": "CG",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 242,
+    "id": 54
+  },
+  {
+    "name_en": "Congo - Kinshasa",
+    "name_ar": "الكونغو - كينشاسا",
+    "short_name": "CD",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 243,
+    "id": 55
+  },
+  {
+    "name_en": "Cook Islands",
+    "name_ar": "جزر كوك",
+    "short_name": "CK",
+    "currency_code_en": "NZD",
+    "iso_code": "COK",
+    "currency_code_ar": "دولار نيوزيلندي",
+    "phone_code": 682,
+    "id": 56
+  },
+  {
+    "name_en": "Costa Rica",
+    "name_ar": "كوستاريكا",
+    "short_name": "CR",
+    "currency_code_en": "CRC",
+    "iso_code": "CRI",
+    "currency_code_ar": "كولن كوستا ريكي",
+    "phone_code": 506,
+    "id": 57
+  },
+  {
+    "name_en": "Côte d’Ivoire",
+    "name_ar": "ساحل العاج",
+    "short_name": "CI",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 225,
+    "id": 58
+  },
+  {
+    "name_en": "Croatia",
+    "name_ar": "كرواتيا",
+    "short_name": "HR",
+    "currency_code_en": "HRK",
+    "iso_code": "HRV",
+    "currency_code_ar": "كونا كرواتي",
+    "phone_code": 385,
+    "id": 59
+  },
+  {
+    "name_en": "Cuba",
+    "name_ar": "كوبا",
+    "short_name": "CU",
+    "currency_code_en": "CUP",
+    "iso_code": "CUB",
+    "currency_code_ar": "بيزو كوبي",
+    "phone_code": 53,
+    "id": 60
+  },
+  {
+    "name_en": "Curaçao",
+    "name_ar": "كوراساو",
+    "short_name": "CW",
+    "currency_code_en": "ANG",
+    "iso_code": "CUW",
+    "currency_code_ar": "غيلدر أنتيلي هولندي",
+    "phone_code": 0,
+    "id": 61
+  },
+  {
+    "name_en": "Cyprus",
+    "name_ar": "قبرص",
+    "short_name": "CY",
+    "currency_code_en": "EUR",
+    "iso_code": "CYP",
+    "currency_code_ar": "يورو",
+    "phone_code": 537,
+    "id": 62
+  },
+  {
+    "name_en": "Czechia",
+    "name_ar": "التشيك",
+    "short_name": "CZ",
+    "currency_code_en": "CZK",
+    "iso_code": "CZE",
+    "currency_code_ar": "كرونة تشيكية",
+    "phone_code": 420,
+    "id": 63
+  },
+  {
+    "name_en": "Denmark",
+    "name_ar": "الدانمرك",
+    "short_name": "DK",
+    "currency_code_en": "DKK",
+    "iso_code": "DNK",
+    "currency_code_ar": "كرونة دانماركي",
+    "phone_code": 45,
+    "id": 64
+  },
+  {
+    "name_en": "Diego Garcia",
+    "name_ar": "دييغو غارسيا",
+    "short_name": "DG",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 65
+  },
+  {
+    "name_en": "Djibouti",
+    "name_ar": "جيبوتي",
+    "short_name": "DJ",
+    "currency_code_en": "DJF",
+    "iso_code": "DJI",
+    "currency_code_ar": "فرنك جيبوتي",
+    "phone_code": 253,
+    "id": 66
+  },
+  {
+    "name_en": "Dominica",
+    "name_ar": "دومينيكا",
+    "short_name": "DM",
+    "currency_code_en": "XCD",
+    "iso_code": "DMA",
+    "currency_code_ar": "دولار شرق الكاريبي",
+    "phone_code": 767,
+    "id": 67
+  },
+  {
+    "name_en": "Dominican Republic",
+    "name_ar": "جمهورية الدومينيكان",
+    "short_name": "DO",
+    "currency_code_en": "DOP",
+    "iso_code": "DOM",
+    "currency_code_ar": "بيزو الدومنيكان",
+    "phone_code": 849,
+    "id": 68
+  },
+  {
+    "name_en": "Ecuador",
+    "name_ar": "الإكوادور",
+    "short_name": "EC",
+    "currency_code_en": "USD",
+    "iso_code": "ECU",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 593,
+    "id": 69
+  },
+  {
+    "name_en": "Egypt",
+    "name_ar": "مصر",
+    "short_name": "EG",
+    "currency_code_en": "EGP",
+    "iso_code": "EGY",
+    "currency_code_ar": "جنيه مصري",
+    "phone_code": 20,
+    "id": 70
+  },
+  {
+    "name_en": "El Salvador",
+    "name_ar": "السلفادور",
+    "short_name": "SV",
+    "currency_code_en": "SVC",
+    "iso_code": "SLV",
+    "currency_code_ar": "كولون سلفادوري",
+    "phone_code": 503,
+    "id": 71
+  },
+  {
+    "name_en": "Equatorial Guinea",
+    "name_ar": "غينيا الاستوائية",
+    "short_name": "GQ",
+    "currency_code_en": "XAF",
+    "iso_code": "GNQ",
+    "currency_code_ar": "فرنك وسط أفريقي",
+    "phone_code": 240,
+    "id": 72
+  },
+  {
+    "name_en": "Eritrea",
+    "name_ar": "إريتريا",
+    "short_name": "ER",
+    "currency_code_en": "ERN",
+    "iso_code": "ERI",
+    "currency_code_ar": "ناكفا أريتري",
+    "phone_code": 291,
+    "id": 73
+  },
+  {
+    "name_en": "Estonia",
+    "name_ar": "إستونيا",
+    "short_name": "EE",
+    "currency_code_en": "EUR",
+    "iso_code": "EST",
+    "currency_code_ar": "يورو",
+    "phone_code": 372,
+    "id": 74
+  },
+  {
+    "name_en": "Ethiopia",
+    "name_ar": "إثيوبيا",
+    "short_name": "ET",
+    "currency_code_en": "ETB",
+    "iso_code": "ETH",
+    "currency_code_ar": "بير أثيوبي",
+    "phone_code": 251,
+    "id": 75
+  },
+  {
+    "name_en": "Eurozone",
+    "name_ar": "Eurozone",
+    "short_name": "EZ",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 76
+  },
+  {
+    "name_en": "Falkland Islands",
+    "name_ar": "جزر فوكلاند",
+    "short_name": "FK",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 500,
+    "id": 77
+  },
+  {
+    "name_en": "Faroe Islands",
+    "name_ar": "جزر فارو",
+    "short_name": "FO",
+    "currency_code_en": "DKK",
+    "iso_code": "FRO",
+    "currency_code_ar": "كرونة دانماركي",
+    "phone_code": 298,
+    "id": 78
+  },
+  {
+    "name_en": "Fiji",
+    "name_ar": "فيجي",
+    "short_name": "FJ",
+    "currency_code_en": "FJD",
+    "iso_code": "FJI",
+    "currency_code_ar": "دولار فيجي",
+    "phone_code": 679,
+    "id": 79
+  },
+  {
+    "name_en": "Finland",
+    "name_ar": "فنلندا",
+    "short_name": "FI",
+    "currency_code_en": "EUR",
+    "iso_code": "FIN",
+    "currency_code_ar": "يورو",
+    "phone_code": 358,
+    "id": 80
+  },
+  {
+    "name_en": "France",
+    "name_ar": "فرنسا",
+    "short_name": "FR",
+    "currency_code_en": "EUR",
+    "iso_code": "FRA",
+    "currency_code_ar": "يورو",
+    "phone_code": 33,
+    "id": 81
+  },
+  {
+    "name_en": "French Guiana",
+    "name_ar": "غويانا الفرنسية",
+    "short_name": "GF",
+    "currency_code_en": "EUR",
+    "iso_code": "GUF",
+    "currency_code_ar": "يورو",
+    "phone_code": 594,
+    "id": 82
+  },
+  {
+    "name_en": "French Polynesia",
+    "name_ar": "بولينيزيا الفرنسية",
+    "short_name": "PF",
+    "currency_code_en": "XPF",
+    "iso_code": "PYF",
+    "currency_code_ar": "فرنك سي إف بي",
+    "phone_code": 689,
+    "id": 83
+  },
+  {
+    "name_en": "French Southern Territories",
+    "name_ar": "الأقاليم الجنوبية الفرنسية",
+    "short_name": "TF",
+    "currency_code_en": "EUR",
+    "iso_code": "ATF",
+    "currency_code_ar": "يورو",
+    "phone_code": 0,
+    "id": 84
+  },
+  {
+    "name_en": "Gabon",
+    "name_ar": "الغابون",
+    "short_name": "GA",
+    "currency_code_en": "XAF",
+    "iso_code": "GAB",
+    "currency_code_ar": "فرنك وسط أفريقي",
+    "phone_code": 241,
+    "id": 85
+  },
+  {
+    "name_en": "Gambia",
+    "name_ar": "غامبيا",
+    "short_name": "GM",
+    "currency_code_en": "GMD",
+    "iso_code": "GMB",
+    "currency_code_ar": "دلاسي جامبي",
+    "phone_code": 220,
+    "id": 86
+  },
+  {
+    "name_en": "Georgia",
+    "name_ar": "جورجيا",
+    "short_name": "GE",
+    "currency_code_en": "GEL",
+    "iso_code": "GEO",
+    "currency_code_ar": "لارى جورجي",
+    "phone_code": 995,
+    "id": 87
+  },
+  {
+    "name_en": "Germany",
+    "name_ar": "ألمانيا",
+    "short_name": "DE",
+    "currency_code_en": "EUR",
+    "iso_code": "DEU",
+    "currency_code_ar": "يورو",
+    "phone_code": 49,
+    "id": 88
+  },
+  {
+    "name_en": "Ghana",
+    "name_ar": "غانا",
+    "short_name": "GH",
+    "currency_code_en": "GHS",
+    "iso_code": "GHA",
+    "currency_code_ar": "سيدي غانا",
+    "phone_code": 233,
+    "id": 89
+  },
+  {
+    "name_en": "Gibraltar",
+    "name_ar": "جبل طارق",
+    "short_name": "GI",
+    "currency_code_en": "GIP",
+    "iso_code": "GIB",
+    "currency_code_ar": "جنيه جبل طارق",
+    "phone_code": 350,
+    "id": 90
+  },
+  {
+    "name_en": "Greece",
+    "name_ar": "اليونان",
+    "short_name": "GR",
+    "currency_code_en": "EUR",
+    "iso_code": "GRC",
+    "currency_code_ar": "يورو",
+    "phone_code": 30,
+    "id": 91
+  },
+  {
+    "name_en": "Greenland",
+    "name_ar": "غرينلاند",
+    "short_name": "GL",
+    "currency_code_en": "DKK",
+    "iso_code": "GRL",
+    "currency_code_ar": "كرونة دانماركي",
+    "phone_code": 299,
+    "id": 92
+  },
+  {
+    "name_en": "Grenada",
+    "name_ar": "غرينادا",
+    "short_name": "GD",
+    "currency_code_en": "XCD",
+    "iso_code": "GRD",
+    "currency_code_ar": "دولار شرق الكاريبي",
+    "phone_code": 473,
+    "id": 93
+  },
+  {
+    "name_en": "Guadeloupe",
+    "name_ar": "غوادلوب",
+    "short_name": "GP",
+    "currency_code_en": "EUR",
+    "iso_code": "GLP",
+    "currency_code_ar": "يورو",
+    "phone_code": 590,
+    "id": 94
+  },
+  {
+    "name_en": "Guam",
+    "name_ar": "غوام",
+    "short_name": "GU",
+    "currency_code_en": "USD",
+    "iso_code": "GUM",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 671,
+    "id": 95
+  },
+  {
+    "name_en": "Guatemala",
+    "name_ar": "غواتيمالا",
+    "short_name": "GT",
+    "currency_code_en": "GTQ",
+    "iso_code": "GTM",
+    "currency_code_ar": "كوتزال جواتيمالا",
+    "phone_code": 502,
+    "id": 96
+  },
+  {
+    "name_en": "Guernsey",
+    "name_ar": "غيرنزي",
+    "short_name": "GG",
+    "currency_code_en": "GBP",
+    "iso_code": "GGY",
+    "currency_code_ar": "جنيه إسترليني",
+    "phone_code": 44,
+    "id": 97
+  },
+  {
+    "name_en": "Guinea",
+    "name_ar": "غينيا",
+    "short_name": "GN",
+    "currency_code_en": "GNF",
+    "iso_code": "GIN",
+    "currency_code_ar": "فرنك غينيا",
+    "phone_code": 224,
+    "id": 98
+  },
+  {
+    "name_en": "Guinea-Bissau",
+    "name_ar": "غينيا بيساو",
+    "short_name": "GW",
+    "currency_code_en": "XOF",
+    "iso_code": "GNB",
+    "currency_code_ar": "فرنك غرب أفريقي",
+    "phone_code": 245,
+    "id": 99
+  },
+  {
+    "name_en": "Guyana",
+    "name_ar": "غيانا",
+    "short_name": "GY",
+    "currency_code_en": "GYD",
+    "iso_code": "GUY",
+    "currency_code_ar": "دولار غيانا",
+    "phone_code": 595,
+    "id": 100
+  },
+  {
+    "name_en": "Haiti",
+    "name_ar": "هايتي",
+    "short_name": "HT",
+    "currency_code_en": "HTG",
+    "iso_code": "HTI",
+    "currency_code_ar": "جوردى هايتي",
+    "phone_code": 509,
+    "id": 101
+  },
+  {
+    "name_en": "Honduras",
+    "name_ar": "هندوراس",
+    "short_name": "HN",
+    "currency_code_en": "HNL",
+    "iso_code": "HND",
+    "currency_code_ar": "ليمبيرا هنداروس",
+    "phone_code": 504,
+    "id": 102
+  },
+  {
+    "name_en": "Hong Kong SAR China",
+    "name_ar": "هونغ كونغ الصينية",
+    "short_name": "HK",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 852,
+    "id": 103
+  },
+  {
+    "name_en": "Hungary",
+    "name_ar": "هنغاريا",
+    "short_name": "HU",
+    "currency_code_en": "HUF",
+    "iso_code": "HUN",
+    "currency_code_ar": "فورينت مجري",
+    "phone_code": 36,
+    "id": 104
+  },
+  {
+    "name_en": "Iceland",
+    "name_ar": "أيسلندا",
+    "short_name": "IS",
+    "currency_code_en": "ISK",
+    "iso_code": "ISL",
+    "currency_code_ar": "كرونه أيسلندي",
+    "phone_code": 354,
+    "id": 105
+  },
+  {
+    "name_en": "India",
+    "name_ar": "الهند",
+    "short_name": "IN",
+    "currency_code_en": "INR",
+    "iso_code": "IND",
+    "currency_code_ar": "روبية هندي",
+    "phone_code": 91,
+    "id": 106
+  },
+  {
+    "name_en": "Indonesia",
+    "name_ar": "إندونيسيا",
+    "short_name": "ID",
+    "currency_code_en": "IDR",
+    "iso_code": "IDN",
+    "currency_code_ar": "روبية إندونيسية",
+    "phone_code": 62,
+    "id": 107
+  },
+  {
+    "name_en": "Iran",
+    "name_ar": "إيران",
+    "short_name": "IR",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 98,
+    "id": 108
+  },
+  {
+    "name_en": "Iraq",
+    "name_ar": "العراق",
+    "short_name": "IQ",
+    "currency_code_en": "IQD",
+    "iso_code": "IRQ",
+    "currency_code_ar": "دينار عراقي",
+    "phone_code": 964,
+    "id": 109
+  },
+  {
+    "name_en": "Ireland",
+    "name_ar": "أيرلندا",
+    "short_name": "IE",
+    "currency_code_en": "EUR",
+    "iso_code": "IRL",
+    "currency_code_ar": "يورو",
+    "phone_code": 353,
+    "id": 110
+  },
+  {
+    "name_en": "Isle of Man",
+    "name_ar": "جزيرة مان",
+    "short_name": "IM",
+    "currency_code_en": "GBP",
+    "iso_code": "IMN",
+    "currency_code_ar": "جنيه إسترليني",
+    "phone_code": 44,
+    "id": 111
+  },
+  {
+    "name_en": "Israel",
+    "name_ar": "إسرائيل",
+    "short_name": "IL",
+    "currency_code_en": "ILS",
+    "iso_code": "ISR",
+    "currency_code_ar": "شيكل إسرائيلي جديد",
+    "phone_code": 972,
+    "id": 112
+  },
+  {
+    "name_en": "Italy",
+    "name_ar": "إيطاليا",
+    "short_name": "IT",
+    "currency_code_en": "EUR",
+    "iso_code": "ITA",
+    "currency_code_ar": "يورو",
+    "phone_code": 39,
+    "id": 113
+  },
+  {
+    "name_en": "Jamaica",
+    "name_ar": "جامايكا",
+    "short_name": "JM",
+    "currency_code_en": "JMD",
+    "iso_code": "JAM",
+    "currency_code_ar": "دولار جامايكي",
+    "phone_code": 876,
+    "id": 114
+  },
+  {
+    "name_en": "Japan",
+    "name_ar": "اليابان",
+    "short_name": "JP",
+    "currency_code_en": "JPY",
+    "iso_code": "JPN",
+    "currency_code_ar": "ين ياباني",
+    "phone_code": 81,
+    "id": 115
+  },
+  {
+    "name_en": "Jersey",
+    "name_ar": "جيرسي",
+    "short_name": "JE",
+    "currency_code_en": "GBP",
+    "iso_code": "JEY",
+    "currency_code_ar": "جنيه إسترليني",
+    "phone_code": 44,
+    "id": 116
+  },
+  {
+    "name_en": "Jordan",
+    "name_ar": "الأردن",
+    "short_name": "JO",
+    "currency_code_en": "JOD",
+    "iso_code": "JOR",
+    "currency_code_ar": "دينار أردني",
+    "phone_code": 962,
+    "id": 117
+  },
+  {
+    "name_en": "Kazakhstan",
+    "name_ar": "كازاخستان",
+    "short_name": "KZ",
+    "currency_code_en": "KZT",
+    "iso_code": "KAZ",
+    "currency_code_ar": "تينغ كازاخستاني",
+    "phone_code": 7,
+    "id": 118
+  },
+  {
+    "name_en": "Kenya",
+    "name_ar": "كينيا",
+    "short_name": "KE",
+    "currency_code_en": "KES",
+    "iso_code": "KEN",
+    "currency_code_ar": "شلن كينيي",
+    "phone_code": 254,
+    "id": 119
+  },
+  {
+    "name_en": "Kiribati",
+    "name_ar": "كيريباتي",
+    "short_name": "KI",
+    "currency_code_en": "AUD",
+    "iso_code": "KIR",
+    "currency_code_ar": "دولار أسترالي",
+    "phone_code": 686,
+    "id": 120
+  },
+  {
+    "name_en": "Kosovo",
+    "name_ar": "كوسوفو",
+    "short_name": "XK",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 121
+  },
+  {
+    "name_en": "Kuwait",
+    "name_ar": "الكويت",
+    "short_name": "KW",
+    "currency_code_en": "KWD",
+    "iso_code": "KWT",
+    "currency_code_ar": "دينار كويتي",
+    "phone_code": 965,
+    "id": 122
+  },
+  {
+    "name_en": "Kyrgyzstan",
+    "name_ar": "قيرغيزستان",
+    "short_name": "KG",
+    "currency_code_en": "KGS",
+    "iso_code": "KGZ",
+    "currency_code_ar": "سوم قيرغستاني",
+    "phone_code": 996,
+    "id": 123
+  },
+  {
+    "name_en": "Laos",
+    "name_ar": "لاوس",
+    "short_name": "LA",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 856,
+    "id": 124
+  },
+  {
+    "name_en": "Latvia",
+    "name_ar": "لاتفيا",
+    "short_name": "LV",
+    "currency_code_en": "EUR",
+    "iso_code": "LVA",
+    "currency_code_ar": "يورو",
+    "phone_code": 371,
+    "id": 125
+  },
+  {
+    "name_en": "Lebanon",
+    "name_ar": "لبنان",
+    "short_name": "LB",
+    "currency_code_en": "LBP",
+    "iso_code": "LBN",
+    "currency_code_ar": "جنيه لبناني",
+    "phone_code": 961,
+    "id": 126
+  },
+  {
+    "name_en": "Lesotho",
+    "name_ar": "ليسوتو",
+    "short_name": "LS",
+    "currency_code_en": "LSL",
+    "iso_code": "LSO",
+    "currency_code_ar": "لوتي ليسوتو",
+    "phone_code": 266,
+    "id": 127
+  },
+  {
+    "name_en": "Liberia",
+    "name_ar": "ليبيريا",
+    "short_name": "LR",
+    "currency_code_en": "LRD",
+    "iso_code": "LBR",
+    "currency_code_ar": "دولار ليبيري",
+    "phone_code": 231,
+    "id": 128
+  },
+  {
+    "name_en": "Libya",
+    "name_ar": "ليبيا",
+    "short_name": "LY",
+    "currency_code_en": "LYD",
+    "iso_code": "LBY",
+    "currency_code_ar": "دينار ليبي",
+    "phone_code": 218,
+    "id": 129
+  },
+  {
+    "name_en": "Liechtenstein",
+    "name_ar": "ليختنشتاين",
+    "short_name": "LI",
+    "currency_code_en": "CHF",
+    "iso_code": "LIE",
+    "currency_code_ar": "فرنك سويسري",
+    "phone_code": 423,
+    "id": 130
+  },
+  {
+    "name_en": "Lithuania",
+    "name_ar": "ليتوانيا",
+    "short_name": "LT",
+    "currency_code_en": "EUR",
+    "iso_code": "LTU",
+    "currency_code_ar": "يورو",
+    "phone_code": 370,
+    "id": 131
+  },
+  {
+    "name_en": "Luxembourg",
+    "name_ar": "لوكسمبورغ",
+    "short_name": "LU",
+    "currency_code_en": "EUR",
+    "iso_code": "LUX",
+    "currency_code_ar": "يورو",
+    "phone_code": 352,
+    "id": 132
+  },
+  {
+    "name_en": "Macau SAR China",
+    "name_ar": "مكاو الصينية (منطقة إدارية خاصة)",
+    "short_name": "MO",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 853,
+    "id": 133
+  },
+  {
+    "name_en": "Macedonia",
+    "name_ar": "مقدونيا",
+    "short_name": "MK",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 389,
+    "id": 134
+  },
+  {
+    "name_en": "Madagascar",
+    "name_ar": "مدغشقر",
+    "short_name": "MG",
+    "currency_code_en": "MGA",
+    "iso_code": "MDG",
+    "currency_code_ar": "أرياري مدغشقر",
+    "phone_code": 261,
+    "id": 135
+  },
+  {
+    "name_en": "Malawi",
+    "name_ar": "ملاوي",
+    "short_name": "MW",
+    "currency_code_en": "MWK",
+    "iso_code": "MWI",
+    "currency_code_ar": "كواشا مالاوي",
+    "phone_code": 265,
+    "id": 136
+  },
+  {
+    "name_en": "Malaysia",
+    "name_ar": "ماليزيا",
+    "short_name": "MY",
+    "currency_code_en": "MYR",
+    "iso_code": "MYS",
+    "currency_code_ar": "رينغيت ماليزي",
+    "phone_code": 60,
+    "id": 137
+  },
+  {
+    "name_en": "Maldives",
+    "name_ar": "جزر المالديف",
+    "short_name": "MV",
+    "currency_code_en": "MVR",
+    "iso_code": "MDV",
+    "currency_code_ar": "روفيه جزر المالديف",
+    "phone_code": 960,
+    "id": 138
+  },
+  {
+    "name_en": "Mali",
+    "name_ar": "مالي",
+    "short_name": "ML",
+    "currency_code_en": "XOF",
+    "iso_code": "MLI",
+    "currency_code_ar": "فرنك غرب أفريقي",
+    "phone_code": 223,
+    "id": 139
+  },
+  {
+    "name_en": "Malta",
+    "name_ar": "مالطا",
+    "short_name": "MT",
+    "currency_code_en": "EUR",
+    "iso_code": "MLT",
+    "currency_code_ar": "يورو",
+    "phone_code": 356,
+    "id": 140
+  },
+  {
+    "name_en": "Marshall Islands",
+    "name_ar": "جزر مارشال",
+    "short_name": "MH",
+    "currency_code_en": "USD",
+    "iso_code": "MHL",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 692,
+    "id": 141
+  },
+  {
+    "name_en": "Martinique",
+    "name_ar": "جزر المارتينيك",
+    "short_name": "MQ",
+    "currency_code_en": "EUR",
+    "iso_code": "MTQ",
+    "currency_code_ar": "يورو",
+    "phone_code": 596,
+    "id": 142
+  },
+  {
+    "name_en": "Mauritania",
+    "name_ar": "موريتانيا",
+    "short_name": "MR",
+    "currency_code_en": "MRU",
+    "iso_code": "MRT",
+    "currency_code_ar": "",
+    "phone_code": 222,
+    "id": 143
+  },
+  {
+    "name_en": "Mauritius",
+    "name_ar": "موريشيوس",
+    "short_name": "MU",
+    "currency_code_en": "MUR",
+    "iso_code": "MUS",
+    "currency_code_ar": "روبية موريشيوسية",
+    "phone_code": 230,
+    "id": 144
+  },
+  {
+    "name_en": "Mayotte",
+    "name_ar": "مايوت",
+    "short_name": "YT",
+    "currency_code_en": "EUR",
+    "iso_code": "MYT",
+    "currency_code_ar": "يورو",
+    "phone_code": 262,
+    "id": 145
+  },
+  {
+    "name_en": "Mexico",
+    "name_ar": "المكسيك",
+    "short_name": "MX",
+    "currency_code_en": "MXN",
+    "iso_code": "MEX",
+    "currency_code_ar": "بيزو مكسيكي",
+    "phone_code": 52,
+    "id": 146
+  },
+  {
+    "name_en": "Micronesia",
+    "name_ar": "ميكرونيزيا",
+    "short_name": "FM",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 691,
+    "id": 147
+  },
+  {
+    "name_en": "Moldova",
+    "name_ar": "مولدوفا",
+    "short_name": "MD",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 373,
+    "id": 148
+  },
+  {
+    "name_en": "Monaco",
+    "name_ar": "موناكو",
+    "short_name": "MC",
+    "currency_code_en": "EUR",
+    "iso_code": "MCO",
+    "currency_code_ar": "يورو",
+    "phone_code": 377,
+    "id": 149
+  },
+  {
+    "name_en": "Mongolia",
+    "name_ar": "منغوليا",
+    "short_name": "MN",
+    "currency_code_en": "MNT",
+    "iso_code": "MNG",
+    "currency_code_ar": "توغروغ منغولي",
+    "phone_code": 976,
+    "id": 150
+  },
+  {
+    "name_en": "Montenegro",
+    "name_ar": "الجبل الأسود",
+    "short_name": "ME",
+    "currency_code_en": "EUR",
+    "iso_code": "MNE",
+    "currency_code_ar": "يورو",
+    "phone_code": 382,
+    "id": 151
+  },
+  {
+    "name_en": "Montserrat",
+    "name_ar": "مونتيسيرات",
+    "short_name": "MS",
+    "currency_code_en": "XCD",
+    "iso_code": "MSR",
+    "currency_code_ar": "دولار شرق الكاريبي",
+    "phone_code": 1664,
+    "id": 152
+  },
+  {
+    "name_en": "Morocco",
+    "name_ar": "المغرب",
+    "short_name": "MA",
+    "currency_code_en": "MAD",
+    "iso_code": "MAR",
+    "currency_code_ar": "درهم مغربي",
+    "phone_code": 212,
+    "id": 153
+  },
+  {
+    "name_en": "Mozambique",
+    "name_ar": "موزمبيق",
+    "short_name": "MZ",
+    "currency_code_en": "MZN",
+    "iso_code": "MOZ",
+    "currency_code_ar": "متكال موزمبيقي",
+    "phone_code": 258,
+    "id": 154
+  },
+  {
+    "name_en": "Myanmar (Burma)",
+    "name_ar": "ميانمار (بورما)",
+    "short_name": "MM",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 95,
+    "id": 155
+  },
+  {
+    "name_en": "Namibia",
+    "name_ar": "ناميبيا",
+    "short_name": "NA",
+    "currency_code_en": "NAD",
+    "iso_code": "NAM",
+    "currency_code_ar": "دولار ناميبي",
+    "phone_code": 264,
+    "id": 156
+  },
+  {
+    "name_en": "Nauru",
+    "name_ar": "ناورو",
+    "short_name": "NR",
+    "currency_code_en": "AUD",
+    "iso_code": "NRU",
+    "currency_code_ar": "دولار أسترالي",
+    "phone_code": 674,
+    "id": 157
+  },
+  {
+    "name_en": "Nepal",
+    "name_ar": "نيبال",
+    "short_name": "NP",
+    "currency_code_en": "NPR",
+    "iso_code": "NPL",
+    "currency_code_ar": "روبية نيبالي",
+    "phone_code": 977,
+    "id": 158
+  },
+  {
+    "name_en": "Netherlands",
+    "name_ar": "هولندا",
+    "short_name": "NL",
+    "currency_code_en": "EUR",
+    "iso_code": "NLD",
+    "currency_code_ar": "يورو",
+    "phone_code": 31,
+    "id": 159
+  },
+  {
+    "name_en": "New Caledonia",
+    "name_ar": "كاليدونيا الجديدة",
+    "short_name": "NC",
+    "currency_code_en": "XPF",
+    "iso_code": "NCL",
+    "currency_code_ar": "فرنك سي إف بي",
+    "phone_code": 687,
+    "id": 160
+  },
+  {
+    "name_en": "New Zealand",
+    "name_ar": "نيوزيلندا",
+    "short_name": "NZ",
+    "currency_code_en": "NZD",
+    "iso_code": "NZL",
+    "currency_code_ar": "دولار نيوزيلندي",
+    "phone_code": 64,
+    "id": 161
+  },
+  {
+    "name_en": "Nicaragua",
+    "name_ar": "نيكاراغوا",
+    "short_name": "NI",
+    "currency_code_en": "NIO",
+    "iso_code": "NIC",
+    "currency_code_ar": "قرطبة نيكاراغوا",
+    "phone_code": 505,
+    "id": 162
+  },
+  {
+    "name_en": "Niger",
+    "name_ar": "النيجر",
+    "short_name": "NE",
+    "currency_code_en": "XOF",
+    "iso_code": "NER",
+    "currency_code_ar": "فرنك غرب أفريقي",
+    "phone_code": 227,
+    "id": 163
+  },
+  {
+    "name_en": "Nigeria",
+    "name_ar": "نيجيريا",
+    "short_name": "NG",
+    "currency_code_en": "NGN",
+    "iso_code": "NGA",
+    "currency_code_ar": "نايرا نيجيري",
+    "phone_code": 234,
+    "id": 164
+  },
+  {
+    "name_en": "Niue",
+    "name_ar": "نيوي",
+    "short_name": "NU",
+    "currency_code_en": "NZD",
+    "iso_code": "NIU",
+    "currency_code_ar": "دولار نيوزيلندي",
+    "phone_code": 683,
+    "id": 165
+  },
+  {
+    "name_en": "Norfolk Island",
+    "name_ar": "جزيرة نورفولك",
+    "short_name": "NF",
+    "currency_code_en": "AUD",
+    "iso_code": "NFK",
+    "currency_code_ar": "دولار أسترالي",
+    "phone_code": 672,
+    "id": 166
+  },
+  {
+    "name_en": "North Korea",
+    "name_ar": "كوريا الشمالية",
+    "short_name": "KP",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 850,
+    "id": 167
+  },
+  {
+    "name_en": "Northern Mariana Islands",
+    "name_ar": "جزر ماريانا الشمالية",
+    "short_name": "MP",
+    "currency_code_en": "USD",
+    "iso_code": "MNP",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 670,
+    "id": 168
+  },
+  {
+    "name_en": "Norway",
+    "name_ar": "النرويج",
+    "short_name": "NO",
+    "currency_code_en": "NOK",
+    "iso_code": "NOR",
+    "currency_code_ar": "كرونة نرويجية",
+    "phone_code": 47,
+    "id": 169
+  },
+  {
+    "name_en": "Oman",
+    "name_ar": "عُمان",
+    "short_name": "OM",
+    "currency_code_en": "OMR",
+    "iso_code": "OMN",
+    "currency_code_ar": "ريال عماني",
+    "phone_code": 968,
+    "id": 170
+  },
+  {
+    "name_en": "Pakistan",
+    "name_ar": "باكستان",
+    "short_name": "PK",
+    "currency_code_en": "PKR",
+    "iso_code": "PAK",
+    "currency_code_ar": "روبية باكستاني",
+    "phone_code": 92,
+    "id": 171
+  },
+  {
+    "name_en": "Palau",
+    "name_ar": "بالاو",
+    "short_name": "PW",
+    "currency_code_en": "USD",
+    "iso_code": "PLW",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 680,
+    "id": 172
+  },
+  {
+    "name_en": "Palestinian Territories",
+    "name_ar": "الأراضي الفلسطينية",
+    "short_name": "PS",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 970,
+    "id": 173
+  },
+  {
+    "name_en": "Panama",
+    "name_ar": "بنما",
+    "short_name": "PA",
+    "currency_code_en": "PAB",
+    "iso_code": "PAN",
+    "currency_code_ar": "بالبوا بنمي",
+    "phone_code": 507,
+    "id": 174
+  },
+  {
+    "name_en": "Papua New Guinea",
+    "name_ar": "بابوا غينيا الجديدة",
+    "short_name": "PG",
+    "currency_code_en": "PGK",
+    "iso_code": "PNG",
+    "currency_code_ar": "كينا بابوا غينيا الجديدة",
+    "phone_code": 675,
+    "id": 175
+  },
+  {
+    "name_en": "Paraguay",
+    "name_ar": "باراغواي",
+    "short_name": "PY",
+    "currency_code_en": "PYG",
+    "iso_code": "PRY",
+    "currency_code_ar": "جواراني باراجواي",
+    "phone_code": 595,
+    "id": 176
+  },
+  {
+    "name_en": "Peru",
+    "name_ar": "بيرو",
+    "short_name": "PE",
+    "currency_code_en": "PEN",
+    "iso_code": "PER",
+    "currency_code_ar": "سول البيرو",
+    "phone_code": 51,
+    "id": 177
+  },
+  {
+    "name_en": "Philippines",
+    "name_ar": "الفلبين",
+    "short_name": "PH",
+    "currency_code_en": "PHP",
+    "iso_code": "PHL",
+    "currency_code_ar": "بيزو فلبيني",
+    "phone_code": 63,
+    "id": 178
+  },
+  {
+    "name_en": "Pitcairn Islands",
+    "name_ar": "جزر بيتكيرن",
+    "short_name": "PN",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 872,
+    "id": 179
+  },
+  {
+    "name_en": "Poland",
+    "name_ar": "بولندا",
+    "short_name": "PL",
+    "currency_code_en": "PLN",
+    "iso_code": "POL",
+    "currency_code_ar": "زلوتي بولندي",
+    "phone_code": 48,
+    "id": 180
+  },
+  {
+    "name_en": "Portugal",
+    "name_ar": "البرتغال",
+    "short_name": "PT",
+    "currency_code_en": "EUR",
+    "iso_code": "PRT",
+    "currency_code_ar": "يورو",
+    "phone_code": 351,
+    "id": 181
+  },
+  {
+    "name_en": "Puerto Rico",
+    "name_ar": "بورتوريكو",
+    "short_name": "PR",
+    "currency_code_en": "USD",
+    "iso_code": "PRI",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 939,
+    "id": 182
+  },
+  {
+    "name_en": "Qatar",
+    "name_ar": "قطر",
+    "short_name": "QA",
+    "currency_code_en": "QAR",
+    "iso_code": "QAT",
+    "currency_code_ar": "ريال قطري",
+    "phone_code": 974,
+    "id": 183
+  },
+  {
+    "name_en": "Réunion",
+    "name_ar": "روينيون",
+    "short_name": "RE",
+    "currency_code_en": "EUR",
+    "iso_code": "REU",
+    "currency_code_ar": "يورو",
+    "phone_code": 262,
+    "id": 184
+  },
+  {
+    "name_en": "Romania",
+    "name_ar": "رومانيا",
+    "short_name": "RO",
+    "currency_code_en": "RON",
+    "iso_code": "ROU",
+    "currency_code_ar": "ليو روماني",
+    "phone_code": 40,
+    "id": 185
+  },
+  {
+    "name_en": "Russia",
+    "name_ar": "روسيا",
+    "short_name": "RU",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 7,
+    "id": 186
+  },
+  {
+    "name_en": "Rwanda",
+    "name_ar": "رواندا",
+    "short_name": "RW",
+    "currency_code_en": "RWF",
+    "iso_code": "RWA",
+    "currency_code_ar": "فرنك رواندي",
+    "phone_code": 250,
+    "id": 187
+  },
+  {
+    "name_en": "Samoa",
+    "name_ar": "ساموا",
+    "short_name": "WS",
+    "currency_code_en": "WST",
+    "iso_code": "WSM",
+    "currency_code_ar": "تالا ساموا",
+    "phone_code": 685,
+    "id": 188
+  },
+  {
+    "name_en": "San Marino",
+    "name_ar": "سان مارينو",
+    "short_name": "SM",
+    "currency_code_en": "EUR",
+    "iso_code": "SMR",
+    "currency_code_ar": "يورو",
+    "phone_code": 378,
+    "id": 189
+  },
+  {
+    "name_en": "São Tomé & Príncipe",
+    "name_ar": "ساو تومي وبرينسيبي",
+    "short_name": "ST",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 239,
+    "id": 190
+  },
+  {
+    "name_en": "Afghanistan",
+    "name_ar": "أفغانستان",
+    "short_name": "AF",
+    "currency_code_en": "AFN",
+    "iso_code": "AFG",
+    "currency_code_ar": "أفغاني",
+    "phone_code": 93,
+    "id": 191
+  },
+  {
+    "name_en": "Senegal",
+    "name_ar": "السنغال",
+    "short_name": "SN",
+    "currency_code_en": "XOF",
+    "iso_code": "SEN",
+    "currency_code_ar": "فرنك غرب أفريقي",
+    "phone_code": 221,
+    "id": 192
+  },
+  {
+    "name_en": "Serbia",
+    "name_ar": "صربيا",
+    "short_name": "RS",
+    "currency_code_en": "RSD",
+    "iso_code": "SRB",
+    "currency_code_ar": "دينار صربي",
+    "phone_code": 381,
+    "id": 193
+  },
+  {
+    "name_en": "Seychelles",
+    "name_ar": "سيشل",
+    "short_name": "SC",
+    "currency_code_en": "SCR",
+    "iso_code": "SYC",
+    "currency_code_ar": "روبية سيشيلية",
+    "phone_code": 248,
+    "id": 194
+  },
+  {
+    "name_en": "Sierra Leone",
+    "name_ar": "سيراليون",
+    "short_name": "SL",
+    "currency_code_en": "SLL",
+    "iso_code": "SLE",
+    "currency_code_ar": "ليون سيراليوني",
+    "phone_code": 232,
+    "id": 195
+  },
+  {
+    "name_en": "Singapore",
+    "name_ar": "سنغافورة",
+    "short_name": "SG",
+    "currency_code_en": "SGD",
+    "iso_code": "SGP",
+    "currency_code_ar": "دولار سنغافوري",
+    "phone_code": 65,
+    "id": 196
+  },
+  {
+    "name_en": "Sint Maarten",
+    "name_ar": "سينت مارتن",
+    "short_name": "SX",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 197
+  },
+  {
+    "name_en": "Slovakia",
+    "name_ar": "سلوفاكيا",
+    "short_name": "SK",
+    "currency_code_en": "EUR",
+    "iso_code": "SVK",
+    "currency_code_ar": "يورو",
+    "phone_code": 421,
+    "id": 198
+  },
+  {
+    "name_en": "Slovenia",
+    "name_ar": "سلوفينيا",
+    "short_name": "SI",
+    "currency_code_en": "EUR",
+    "iso_code": "SVN",
+    "currency_code_ar": "يورو",
+    "phone_code": 386,
+    "id": 199
+  },
+  {
+    "name_en": "Solomon Islands",
+    "name_ar": "جزر سليمان",
+    "short_name": "SB",
+    "currency_code_en": "SBD",
+    "iso_code": "SLB",
+    "currency_code_ar": "دولار جزر سليمان",
+    "phone_code": 677,
+    "id": 200
+  },
+  {
+    "name_en": "Somalia",
+    "name_ar": "الصومال",
+    "short_name": "SO",
+    "currency_code_en": "SOS",
+    "iso_code": "SOM",
+    "currency_code_ar": "شلن صومالي",
+    "phone_code": 252,
+    "id": 201
+  },
+  {
+    "name_en": "South Africa",
+    "name_ar": "جنوب أفريقيا",
+    "short_name": "ZA",
+    "currency_code_en": "ZAR",
+    "iso_code": "ZAF",
+    "currency_code_ar": "راند جنوب أفريقيا",
+    "phone_code": 27,
+    "id": 202
+  },
+  {
+    "name_en": "South Georgia & South Sandwich Islands",
+    "name_ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+    "short_name": "GS",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 500,
+    "id": 203
+  },
+  {
+    "name_en": "South Korea",
+    "name_ar": "كوريا الجنوبية",
+    "short_name": "KR",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 82,
+    "id": 204
+  },
+  {
+    "name_en": "South Sudan",
+    "name_ar": "جنوب السودان",
+    "short_name": "SS",
+    "currency_code_en": "SSP",
+    "iso_code": "SSD",
+    "currency_code_ar": "جنيه جنوب السودان",
+    "phone_code": 0,
+    "id": 205
+  },
+  {
+    "name_en": "Spain",
+    "name_ar": "إسبانيا",
+    "short_name": "ES",
+    "currency_code_en": "EUR",
+    "iso_code": "ESP",
+    "currency_code_ar": "يورو",
+    "phone_code": 34,
+    "id": 206
+  },
+  {
+    "name_en": "Sri Lanka",
+    "name_ar": "سريلانكا",
+    "short_name": "LK",
+    "currency_code_en": "LKR",
+    "iso_code": "LKA",
+    "currency_code_ar": "روبية سريلانكية",
+    "phone_code": 94,
+    "id": 207
+  },
+  {
+    "name_en": "St. Barthélemy",
+    "name_ar": "سان بارتليمي",
+    "short_name": "BL",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 590,
+    "id": 208
+  },
+  {
+    "name_en": "St. Helena",
+    "name_ar": "سانت هيلانة",
+    "short_name": "SH",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 290,
+    "id": 209
+  },
+  {
+    "name_en": "St. Kitts & Nevis",
+    "name_ar": "سانت كيتس ونيفيس",
+    "short_name": "KN",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 869,
+    "id": 210
+  },
+  {
+    "name_en": "St. Lucia",
+    "name_ar": "سانت لوسيا",
+    "short_name": "LC",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 758,
+    "id": 211
+  },
+  {
+    "name_en": "St. Martin",
+    "name_ar": "سانت مارتن",
+    "short_name": "MF",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 590,
+    "id": 212
+  },
+  {
+    "name_en": "St. Pierre & Miquelon",
+    "name_ar": "سان بيير وميكولون",
+    "short_name": "PM",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 508,
+    "id": 213
+  },
+  {
+    "name_en": "St. Vincent & Grenadines",
+    "name_ar": "سانت فنسنت وجزر غرينادين",
+    "short_name": "VC",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 784,
+    "id": 214
+  },
+  {
+    "name_en": "Sudan",
+    "name_ar": "السودان",
+    "short_name": "SD",
+    "currency_code_en": "SDG",
+    "iso_code": "SDN",
+    "currency_code_ar": "جنيه سوداني",
+    "phone_code": 249,
+    "id": 215
+  },
+  {
+    "name_en": "Suriname",
+    "name_ar": "سورينام",
+    "short_name": "SR",
+    "currency_code_en": "SRD",
+    "iso_code": "SUR",
+    "currency_code_ar": "دولار سورينامي",
+    "phone_code": 597,
+    "id": 216
+  },
+  {
+    "name_en": "Svalbard & Jan Mayen",
+    "name_ar": "سفالبارد وجان مايان",
+    "short_name": "SJ",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 47,
+    "id": 217
+  },
+  {
+    "name_en": "Swaziland",
+    "name_ar": "سوازيلاند",
+    "short_name": "SZ",
+    "currency_code_en": "SZL",
+    "iso_code": "",
+    "currency_code_ar": "ليلانجيني سوازيلندي",
+    "phone_code": 268,
+    "id": 218
+  },
+  {
+    "name_en": "Sweden",
+    "name_ar": "السويد",
+    "short_name": "SE",
+    "currency_code_en": "SEK",
+    "iso_code": "SWE",
+    "currency_code_ar": "كرونة سويدية",
+    "phone_code": 46,
+    "id": 219
+  },
+  {
+    "name_en": "Switzerland",
+    "name_ar": "سويسرا",
+    "short_name": "CH",
+    "currency_code_en": "CHF",
+    "iso_code": "CHE",
+    "currency_code_ar": "فرنك سويسري",
+    "phone_code": 41,
+    "id": 220
+  },
+  {
+    "name_en": "Syria",
+    "name_ar": "سوريا",
+    "short_name": "SY",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 963,
+    "id": 221
+  },
+  {
+    "name_en": "Taiwan",
+    "name_ar": "تايوان",
+    "short_name": "TW",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 886,
+    "id": 222
+  },
+  {
+    "name_en": "Tajikistan",
+    "name_ar": "طاجيكستان",
+    "short_name": "TJ",
+    "currency_code_en": "TJS",
+    "iso_code": "TJK",
+    "currency_code_ar": "سوموني طاجيكستاني",
+    "phone_code": 992,
+    "id": 223
+  },
+  {
+    "name_en": "Tanzania",
+    "name_ar": "تنزانيا",
+    "short_name": "TZ",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 255,
+    "id": 224
+  },
+  {
+    "name_en": "Thailand",
+    "name_ar": "تايلاند",
+    "short_name": "TH",
+    "currency_code_en": "THB",
+    "iso_code": "THA",
+    "currency_code_ar": "باخت تايلاندي",
+    "phone_code": 66,
+    "id": 225
+  },
+  {
+    "name_en": "Timor-Leste",
+    "name_ar": "تيمور- ليشتي",
+    "short_name": "TL",
+    "currency_code_en": "USD",
+    "iso_code": "TLS",
+    "currency_code_ar": "دولار أمريكي",
+    "phone_code": 670,
+    "id": 226
+  },
+  {
+    "name_en": "Togo",
+    "name_ar": "توغو",
+    "short_name": "TG",
+    "currency_code_en": "XOF",
+    "iso_code": "TGO",
+    "currency_code_ar": "فرنك غرب أفريقي",
+    "phone_code": 228,
+    "id": 227
+  },
+  {
+    "name_en": "Tokelau",
+    "name_ar": "توكيلو",
+    "short_name": "TK",
+    "currency_code_en": "NZD",
+    "iso_code": "TKL",
+    "currency_code_ar": "دولار نيوزيلندي",
+    "phone_code": 690,
+    "id": 228
+  },
+  {
+    "name_en": "Tonga",
+    "name_ar": "تونغا",
+    "short_name": "TO",
+    "currency_code_en": "TOP",
+    "iso_code": "TON",
+    "currency_code_ar": "بانغا تونغا",
+    "phone_code": 676,
+    "id": 229
+  },
+  {
+    "name_en": "Trinidad & Tobago",
+    "name_ar": "ترينيداد وتوباغو",
+    "short_name": "TT",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 868,
+    "id": 230
+  },
+  {
+    "name_en": "Tristan da Cunha",
+    "name_ar": "تريستان دي كونها",
+    "short_name": "TA",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 231
+  },
+  {
+    "name_en": "Tunisia",
+    "name_ar": "تونس",
+    "short_name": "TN",
+    "currency_code_en": "TND",
+    "iso_code": "TUN",
+    "currency_code_ar": "دينار تونسي",
+    "phone_code": 216,
+    "id": 232
+  },
+  {
+    "name_en": "Turkey",
+    "name_ar": "تركيا",
+    "short_name": "TR",
+    "currency_code_en": "TRY",
+    "iso_code": "TUR",
+    "currency_code_ar": "ليرة تركية",
+    "phone_code": 90,
+    "id": 233
+  },
+  {
+    "name_en": "Turkmenistan",
+    "name_ar": "تركمانستان",
+    "short_name": "TM",
+    "currency_code_en": "TMT",
+    "iso_code": "TKM",
+    "currency_code_ar": "مانات تركمانستان",
+    "phone_code": 993,
+    "id": 234
+  },
+  {
+    "name_en": "Turks & Caicos Islands",
+    "name_ar": "جزر توركس وكايكوس",
+    "short_name": "TC",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 649,
+    "id": 235
+  },
+  {
+    "name_en": "Tuvalu",
+    "name_ar": "توفالو",
+    "short_name": "TV",
+    "currency_code_en": "AUD",
+    "iso_code": "TUV",
+    "currency_code_ar": "دولار أسترالي",
+    "phone_code": 688,
+    "id": 236
+  },
+  {
+    "name_en": "U.S. Outlying Islands",
+    "name_ar": "جزر الولايات المتحدة النائية",
+    "short_name": "UM",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 237
+  },
+  {
+    "name_en": "U.S. Virgin Islands",
+    "name_ar": "جزر فيرجن التابعة للولايات المتحدة",
+    "short_name": "VI",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 340,
+    "id": 238
+  },
+  {
+    "name_en": "Uganda",
+    "name_ar": "أوغندا",
+    "short_name": "UG",
+    "currency_code_en": "UGX",
+    "iso_code": "UGA",
+    "currency_code_ar": "شلن أوغندي",
+    "phone_code": 256,
+    "id": 239
+  },
+  {
+    "name_en": "Ukraine",
+    "name_ar": "أوكرانيا",
+    "short_name": "UA",
+    "currency_code_en": "UAH",
+    "iso_code": "UKR",
+    "currency_code_ar": "هريفنيا أوكراني",
+    "phone_code": 380,
+    "id": 240
+  },
+  {
+    "name_en": "United Arab Emirates",
+    "name_ar": "الإمارات العربية المتحدة",
+    "short_name": "AE",
+    "currency_code_en": "AED",
+    "iso_code": "ARE",
+    "currency_code_ar": "درهم إماراتي",
+    "phone_code": 971,
+    "id": 241
+  },
+  {
+    "name_en": "United Kingdom",
+    "name_ar": "المملكة المتحدة",
+    "short_name": "GB",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 44,
+    "id": 242
+  },
+  {
+    "name_en": "United Nations",
+    "name_ar": "الأمم المتحدة",
+    "short_name": "UN",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 0,
+    "id": 243
+  },
+  {
+    "name_en": "United States",
+    "name_ar": "الولايات المتحدة",
+    "short_name": "US",
+    "currency_code_en": "USS",
+    "iso_code": "",
+    "currency_code_ar": "دولار أمريكي (نفس اليوم)‏",
+    "phone_code": 1,
+    "id": 244
+  },
+  {
+    "name_en": "Uruguay",
+    "name_ar": "أوروغواي",
+    "short_name": "UY",
+    "currency_code_en": "UYU",
+    "iso_code": "URY",
+    "currency_code_ar": "بيزو اوروغواي",
+    "phone_code": 598,
+    "id": 245
+  },
+  {
+    "name_en": "Uzbekistan",
+    "name_ar": "أوزبكستان",
+    "short_name": "UZ",
+    "currency_code_en": "UZS",
+    "iso_code": "UZB",
+    "currency_code_ar": "سوم أوزبكستاني",
+    "phone_code": 998,
+    "id": 246
+  },
+  {
+    "name_en": "Vanuatu",
+    "name_ar": "فانواتو",
+    "short_name": "VU",
+    "currency_code_en": "VUV",
+    "iso_code": "VUT",
+    "currency_code_ar": "فاتو فانواتو",
+    "phone_code": 678,
+    "id": 247
+  },
+  {
+    "name_en": "Vatican City",
+    "name_ar": "الفاتيكان",
+    "short_name": "VA",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 379,
+    "id": 248
+  },
+  {
+    "name_en": "Venezuela",
+    "name_ar": "فنزويلا",
+    "short_name": "VE",
+    "currency_code_en": "VEB",
+    "iso_code": "",
+    "currency_code_ar": "بوليفار فنزويلي - 1871-2008",
+    "phone_code": 58,
+    "id": 249
+  },
+  {
+    "name_en": "Vietnam",
+    "name_ar": "فيتنام",
+    "short_name": "VN",
+    "currency_code_en": "VNC",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 84,
+    "id": 250
+  },
+  {
+    "name_en": "Wallis & Futuna",
+    "name_ar": "جزر والس وفوتونا",
+    "short_name": "WF",
+    "currency_code_en": "",
+    "iso_code": "",
+    "currency_code_ar": "",
+    "phone_code": 681,
+    "id": 251
+  },
+  {
+    "name_en": "Western Sahara",
+    "name_ar": "الصحراء الغربية",
+    "short_name": "EH",
+    "currency_code_en": "MAD",
+    "iso_code": "ESH",
+    "currency_code_ar": "درهم مغربي",
+    "phone_code": 0,
+    "id": 252
+  },
+  {
+    "name_en": "Yemen",
+    "name_ar": "اليمن",
+    "short_name": "YE",
+    "currency_code_en": "YER",
+    "iso_code": "YEM",
+    "currency_code_ar": "ريال يمني",
+    "phone_code": 967,
+    "id": 253
+  },
+  {
+    "name_en": "Zambia",
+    "name_ar": "زامبيا",
+    "short_name": "ZM",
+    "currency_code_en": "ZMW",
+    "iso_code": "ZMB",
+    "currency_code_ar": "كواشا زامبي",
+    "phone_code": 260,
+    "id": 254
+  },
+  {
+    "name_en": "Zimbabwe",
+    "name_ar": "زيمبابوي",
+    "short_name": "ZW",
+    "currency_code_en": "ZWL",
+    "iso_code": "ZWE",
+    "currency_code_ar": "دولار زمبابوي 2009",
+    "phone_code": 263,
+    "id": 255
+  }
+]
